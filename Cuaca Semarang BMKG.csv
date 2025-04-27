@@ -1,4 +1,4 @@
-TANGGAL,Temperatur Minimum (°C),Temperatur Maksimum (°C),Temperatur Rata-rata (°C),Kelembapan Rata-rata (%),Curah hujan (mm),Lamanya Penyinaran Matahari (Jam),Kecepatan Angin Maksimum (m/s),Arah angin saat kecepatan maksimum (°),Kecepatan angin rata-rata (m/s),Arah angin terbanyak
+DATE,TN,TX,TAVG,RH_AVG,RR,SS,FF_X,DDD_X,FF_AVG,DDD_CAR
 01-01-2023,23,29.6,26.7,83,137.6,0,8,290,4,W 
 02-01-2023,24,30.6,27.8,78,7,-,11,270,6,W 
 03-01-2023,23.2,30.8,26.9,86,14.9,3.6,8,310,4,W 
